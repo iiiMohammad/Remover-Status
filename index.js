@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing a game🕵🏻‍♂️ made by @m12_zombie"];
+const statusMessages = ["Welcome to Server M12"];
 
 
 let currentIndex = 0;
